@@ -1,1 +1,1 @@
-print('esto es una puta locura men ')
+print('KUAKAKAKAKAKAKAKAKA')
