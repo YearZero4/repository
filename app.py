@@ -1,1 +1,1 @@
-print('hello pendejo')
+print('esto es una puta locura men ')
